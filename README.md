@@ -1,16 +1,24 @@
-## Hi there 👋
+# 🍀 eastme.me
 
-<!--
-**ji-su-kang-1/ji-su-kang-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+안녕하세요! 저는 **강지수**예요 🙌  
+지금은 천천히 개발을 배우고 있는 초보 개발자입니다.  
+조금씩 배워가면서 내가 만든 것들, 그리고 생각들을 기록하고 있어요 🧸
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙋‍♀️ 저에 대해 조금만 소개할게요
+
+- 이름: 강지수
+- 성격: 조용하고 차분하지만, 좋아하는 것엔 열정이 많아요!
+- 관심사: 웹 개발, 글쓰기, 
+- 목표: 언젠가는 나만의 멋진 서비스를 만들고 싶어요! 🚀
+
+---
+
+## 🛠 지금 배우고 있는 기술들
+
+
+
+
+- Git & GitHub (코드 저장하는 법 배우는 중!)
+- 
